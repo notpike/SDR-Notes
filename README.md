@@ -58,7 +58,7 @@
 -	Troy 2.4GHz Yagi Design → http://troybrowndesigns.com
 
 
-#### ==DSP/SDR==
+#### ==DSP/SDR Education==
 
 -	★ SDR with HackRF → https://greatscottgadgets.com/sdr/
 -	Visual Intro to SDP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
@@ -99,7 +99,7 @@
 -	★ Cyberspectrum → https://www.youtube.com/playlist?list=PLPmwwVknVIiXGzKhtimTMjhcyppeRRsnE
 
 
-####	==SDR==
+####	==SDR Software==
 -	RTL-SDR →  https://github.com/osmocom/rtl-sdr 
 -	GQRX →  https://github.com/csete/gqrx 
 -	OpenBTS →  https://github.com/RangeNetworks/openbts 
@@ -121,7 +121,7 @@
 -	gr-ieee802.15-4 →  https://github.com/bastibl/gr-ieee802-15-4 
 -	gr-pocsag →  https://github.com/bafe/gr-pocsag 
 
-####	==Stand Alone== 
+####	==Stand Alone Applications== 
 -	rfcat →  https://github.com/atlas0fd00m/rfcat 
 -	★ rfcat (Code Samples) →  https://github.com/AndrewMohawk/RfCatHelpers 
 -	Multimon-NG →  https://github.com/EliasOenal/multimon-ng 
@@ -143,7 +143,7 @@
   
 ####  ==Hardware==
 		
-######		==SDR==
+######		==SDR Hardware==
 -		RTL-SDR →  https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/ 
 -		HackRF →  https://greatscottgadgets.com/hackrf/ 
 -		HackRF Portapack →  https://store.sharebrained.com/products/portapack-for-hackrf-one-kit 
