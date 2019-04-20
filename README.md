@@ -147,10 +147,8 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Proxmark3 IceMan Fork →  https://github.com/iceman1001/proxmark3 
 -	Arduino →  https://github.com/miguelbalboa/rfid 
   
-  
-####  ==Hardware==
-		
-######		==SDR Hardware==
+  		
+####		==SDR Hardware==
 -		RTL-SDR →  https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/ 
 -		HackRF →  https://greatscottgadgets.com/hackrf/ 
 -		HackRF Portapack →  https://store.sharebrained.com/products/portapack-for-hackrf-one-kit 
@@ -159,21 +157,21 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -		XTRX →  https://xtrx.io/ 
 -		LimeSDR →  https://myriadrf.org/projects/limesdr/ 
 
-######		==Radios==
+####		==Radios==
 -		Yard Stick One →  https://greatscottgadgets.com/yardstickone/ 
 -		Crazyradio PA →  https://www.bitcraze.io/crazyradio-pa/ 
 -		MD380 →  http://www.tyt888.com/?mod=product_show&id=78 
 
-######		==Blue Tooth==
+####		==Blue Tooth==
 -		Ubertooth One →  https://greatscottgadgets.com/ubertoothone/ 
 -		Sena UD100 →  http://www.senanetworks.com 
 
-######		==ZigBee==
+####		==ZigBee==
 -		apimote →  https://github.com/riverloopsec/apimote 
 -		Atmel RZ RAVEN →  https://www.microchip.com/webdoc/rzraven/pr01.html 
 -		TI CC2530 →  https://www.aliexpress.com/item/ZigBee-CC2531-USB-Dongle/1830760873.html 
 
-######		==Other Hardware==
+####		==Other Hardware==
 -		Symmetricom GPSDO →  http://andybrown.me.uk/2016/11/12/gpsdo-ebay/ 
 -		HackRF TXCO →  https://www.nooelec.com/store/tiny-tcxo.html 
 -		BT-100 PA →  https://www.nuand.com/product/bt-100/ 
@@ -181,11 +179,11 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -		1800MHz Duplexer →  http://shop.sysmocom.de/products/1800-mhz-dcs-duplexer-30w 
 -		1900MHz Duplexer →  http://shop.sysmocom.de/products/dx1900-kt30 
 
-######		==Instrumentation==
+####		==Instrumentation==
 -		 N1201SA UV RF VIA →  https://www.eham.net/ehamforum/smf/index.php?topic=112912.0 
 -		VC3165 Radio Frequency Counter →  https://www.eham.net/reviews/detail/7839 
 
-######		==DIY==
+####		==DIY==
 -		LHCP 1.6GHz Antenna →  https://www.thingiverse.com/thing:2627680 
 -		Good Watch →  https://goodwatch.org/posts/introducing-the-goodwatch/ 
 -		Wave Bubble Jammer →  http://www.ladyada.net/make/wavebubble/ 
