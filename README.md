@@ -93,15 +93,13 @@
 
 #### ==Groups==
 
--	RTL-SDR → <https://www.rtl-sdr.com/>
--	GNU Radio → <https://www.gnuradio.org/>
--	OSMOCOM → <https://osmocom.org/>
--	★ Cyberspectrum → <https://www.youtube.com/playlist?list=PLPmwwVknVIiXGzKhtimTMjhcyppeRRsnE>
+-	RTL-SDR → https://www.rtl-sdr.com/
+-	GNU Radio → https://www.gnuradio.org/
+-	OSMOCOM → https://osmocom.org/
+-	★ Cyberspectrum → https://www.youtube.com/playlist?list=PLPmwwVknVIiXGzKhtimTMjhcyppeRRsnE
 
 
-#### ==Tools==
-
-######	==SDR==
+####	==SDR==
 -	RTL-SDR →  https://github.com/osmocom/rtl-sdr 
 -	GQRX →  https://github.com/csete/gqrx 
 -	OpenBTS →  https://github.com/RangeNetworks/openbts 
@@ -112,7 +110,7 @@
 -	PAL/NTSC TX For HackRF →  https://github.com/fsphil/hacktv 
 -	★ Portapack Havoc →  https://github.com/furrtek/portapack-havoc 
 
-######	== GNU Radio Companion==
+####	== GNU Radio Companion==
 -	★ PyBombs →  https://github.com/gnuradio/pybombs 
 -	gr-iridium →  https://github.com/muccc/gr-iridium 
 -	gr-gsm →  https://github.com/ptrkrysik/gr-gsm 
@@ -123,21 +121,21 @@
 -	gr-ieee802.15-4 →  https://github.com/bastibl/gr-ieee802-15-4 
 -	gr-pocsag →  https://github.com/bafe/gr-pocsag 
 
-######	==Stand Alone== 
+####	==Stand Alone== 
 -	rfcat →  https://github.com/atlas0fd00m/rfcat 
 -	★ rfcat (Code Samples) →  https://github.com/AndrewMohawk/RfCatHelpers 
 -	Multimon-NG →  https://github.com/EliasOenal/multimon-ng 
 -	POM-NG →  https://www.packet-o-matic.org/ 
 -	LinuxTV →  https://www.linuxtv.org
 
-######	==WiFi && BLUETOOTH && ZIGBEE== 
+####	==WiFi && BLUETOOTH && ZIGBEE== 
 -	★ Killer Bee (ZigBee) →  https://github.com/riverloopsec/killerbee 
 -	★ Aircrack-NG →  https://www.aircrack-ng.org/ 
 -	★ bleah →  https://github.com/evilsocket/bleah 
 -	Blue Hydra →  https://github.com/pwnieexpress/blue_hydra 
 -	Ubertooth →  https://github.com/greatscottgadgets/ubertooth 
 
-######	==RFID || NFC==
+####	==RFID || NFC==
 -	Proxmark3 →  https://proxmark.com/ 
 -	Proxmark3 IceMan Fork →  https://github.com/iceman1001/proxmark3 
 -	Arduino →  https://github.com/miguelbalboa/rfid 
@@ -185,7 +183,3 @@
 -		Good Watch →  https://goodwatch.org/posts/introducing-the-goodwatch/ 
 -		Wave Bubble Jammer →  http://www.ladyada.net/make/wavebubble/ 
 -		1.6GHz QFH Bunny Antenna →  https://easyeda.com/notpike/QFH-Antenna/ 
-
-
-
-
