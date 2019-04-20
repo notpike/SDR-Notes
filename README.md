@@ -1,3 +1,10 @@
+# SDR-Notes
+Hi!
+
+I created this repo for everything SDR and wireless related so I wouldn't lose track of available tools or guides. The Quick Start was created for those who never worked with SDR before and includes videos and tools to get people started. The 2nd half, Radio Hacker Reference, are tools and other stuff I’ve used I feel are important to know. Any who feel free and share this as you wish, add too if you like, and happy hacking! :D 
+
+\- notpike
+
 ## R A D I O  ★  H A C K E R  ★  Q U I C K  ★  S T A R T
 
 #### =="Can I play, Daddy?"==
