@@ -5,7 +5,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 \- notpike
 
-## R A D I O  ★  H A C K E R  ★  Q U I C K  ★  S T A R T
+## R A D I O  ★  H A C K E R  ★  Q U I C K  ★  S T A R T  ★  G U I D E
 
 #### =="Can I play, Daddy?"==
 
