@@ -165,6 +165,13 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	XTRX →  https://xtrx.io/ 
 -	LimeSDR →  https://myriadrf.org/projects/limesdr/ 
 
+#### ==SDR APIs==
+- SoapySDR → https://github.com/pothosware/SoapySDR/wiki
+- USRP (Python) → https://files.ettus.com/manual/page_python.html
+- RTL-SDR (Python) → https://pypi.org/project/pyrtlsdr/
+- HackRF (cLang) → https://github.com/mossmann/hackrf/wiki/libHackRF-API
+- BladeRF (cLang) → http://www.nuand.com/libbladeRF-doc/v2.2.0/modules.html
+
 ####		==Radios==
 -	Yard Stick One →  https://greatscottgadgets.com/yardstickone/ 
 -	Crazyradio PA →  https://www.bitcraze.io/crazyradio-pa/ 
