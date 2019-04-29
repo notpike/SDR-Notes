@@ -50,7 +50,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 #### =="I am Death incarnate!"==
 
 -	★ Practical Signal Processing → (Book)
--	OpenBTS → https://github.com/RangeNetworks/openbts
+-	OpenBTS (DEPRECIATED) → https://github.com/RangeNetworks/openbts
 -	srsLTE → https://github.com/srsLTE/srsLTE
 -	★ GNSS Simulation → https://github.com/osqzss/gps-sdr-sim
 
@@ -86,7 +86,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 -	VGA Transmitter → https://osmocom.org/projects/osmo-fl2k/wiki
 -	★ RPi-TX → https://github.com/F5OEO/rpitx
--	RPi FM Transmitter → https://github.com/rm-hull/pifm
+-	RPi FM Transmitter (DEPRECIATED) → https://github.com/rm-hull/pifm
 -	Arduino → https://randomnerdtutorials.com/rf-433mhz-transmitter-receiver-module-with-arduino/
 
 
@@ -109,7 +109,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 ####	==SDR Software==
 -	RTL-SDR →  https://github.com/osmocom/rtl-sdr 
 -	GQRX →  https://github.com/csete/gqrx 
--	OpenBTS →  https://github.com/RangeNetworks/openbts 
+-	OpenBTS (DEPRECIATED) →  https://github.com/RangeNetworks/openbts 
 -	★ srsLTE →  https://github.com/srsLTE/srsLTE 
 -	★ Universal Radio Hacker →  https://github.com/jopohl/urh 
 -	Inspectrum →  https://github.com/miek/inspectrum 
