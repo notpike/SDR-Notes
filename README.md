@@ -22,6 +22,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 #### =="Don't hurt me"==
 -	★ Install GRC → https://github.com/gnuradio/pybombs
 -	★ SDR with HackRF → https://greatscottgadgets.com/sdr/
+- Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	GRC Tutorial → https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC
 -	Multimon-NG → https://github.com/EliasOenal/multimon-ng
 -	★ The Essential Guide to Digital Signal Processing → http://libgen.io/book/index.php?md5=193E1AC4AA26E8238CA212B3C8AF3D49
@@ -63,6 +64,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 #### ==DSP/SDR Education==
 -	★ SDR with HackRF → https://greatscottgadgets.com/sdr/
 -	Visual Intro to SDP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
+- Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	FFT → https://youtu.be/iTMn0Kt18tg
 -	The Hobbyist’s Guide to the RTL-SDR → http://libgen.io/book/index.php?md5=858D770EC0E814371C2E0388484CEA5A
 -	★ The Essential Guide to Digital Signal Processing → http://libgen.io/book/index.php?md5=193E1AC4AA26E8238CA212B3C8AF3D49
@@ -196,3 +198,8 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Good Watch →  https://goodwatch.org/posts/introducing-the-goodwatch/ 
 -	Wave Bubble Jammer →  http://www.ladyada.net/make/wavebubble/ 
 -	1.6GHz QFH Bunny Antenna →  https://easyeda.com/notpike/QFH-Antenna/ 
+
+
+## ==C O N T R I B U T O R S==
+- NotPike
+- Ted
