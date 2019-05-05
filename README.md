@@ -207,7 +207,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - ★ ESP8266 WiFi Deauthur → https://github.com/spacehuhn/esp8266_deauther
 
 
-## ==C O N T R I B U T O R S==
+## C O N T R I B U T O R S
 - NotPike
 - Ted
 - rfs
