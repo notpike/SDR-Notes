@@ -119,8 +119,6 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 ####	==SDR Software==
 -	RTL-SDR →  https://github.com/osmocom/rtl-sdr 
 -	GQRX →  https://github.com/csete/gqrx 
--	OpenBTS (DEPRECIATED) →  https://github.com/RangeNetworks/openbts 
--	★ srsLTE →  https://github.com/srsLTE/srsLTE 
 -	★ Universal Radio Hacker →  https://github.com/jopohl/urh 
 -	Inspectrum →  https://github.com/miek/inspectrum 
 -	GNSS Simulation →  https://github.com/osqzss/gps-sdr-sim 
@@ -147,6 +145,13 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	POM-NG →  https://www.packet-o-matic.org/ 
 -	LinuxTV →  https://www.linuxtv.org
 
+#### ==GSM && LTE==
+-	★ srsLTE →  https://github.com/srsLTE/srsLTE 
+-	OpenBTS (DEPRECIATED) →  https://github.com/RangeNetworks/openbts
+- YateBTS → https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF
+- ★ OsmoNITB → https://osmocom.org/projects/osmonitb/wiki/OsmoNITB
+- ★ OsmocomBB SDR PHY (GSM SDR Softphone) → https://osmocom.org/projects/osmocom-bb-sdr-phy
+
 
 ####	==WiFi && BLUETOOTH && ZIGBEE==
 -	★ BLE CTF → http://www.hackgnar.com/2018/06/learning-bluetooth-hackery-with-ble-ctf.html
@@ -170,7 +175,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 ####	==RFID || NFC==
 -	Proxmark3 →  https://proxmark.com/ 
--	Proxmark3 IceMan Fork →  https://github.com/iceman1001/proxmark3 
+- ★ Proxmark3 IceMan Fork →  https://github.com/iceman1001/proxmark3 
 -	Arduino →  https://github.com/miguelbalboa/rfid 
 
 
@@ -205,3 +210,4 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 ## ==C O N T R I B U T O R S==
 - NotPike
 - Ted
+- rfs
