@@ -148,7 +148,8 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	LinuxTV →  https://www.linuxtv.org
 
 
-####	==WiFi && BLUETOOTH && ZIGBEE== 
+####	==WiFi && BLUETOOTH && ZIGBEE==
+-	★ BLE CTF → http://www.hackgnar.com/2018/06/learning-bluetooth-hackery-with-ble-ctf.html
 -	★ Killer Bee (ZigBee) →  https://github.com/riverloopsec/killerbee 
 -	★ Aircrack-NG →  https://www.aircrack-ng.org/ 
 -	★ bleah →  https://github.com/evilsocket/bleah 
@@ -198,6 +199,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Good Watch →  https://goodwatch.org/posts/introducing-the-goodwatch/ 
 -	Wave Bubble Jammer →  http://www.ladyada.net/make/wavebubble/ 
 -	1.6GHz QFH Bunny Antenna →  https://easyeda.com/notpike/QFH-Antenna/ 
+- ★ ESP8266 WiFi Deauthur → https://github.com/spacehuhn/esp8266_deauther
 
 
 ## ==C O N T R I B U T O R S==
