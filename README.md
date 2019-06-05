@@ -69,6 +69,9 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	The Hobbyist’s Guide to the RTL-SDR → http://libgen.io/book/index.php?md5=858D770EC0E814371C2E0388484CEA5A
 -	★ The Essential Guide to Digital Signal Processing → http://libgen.io/book/index.php?md5=193E1AC4AA26E8238CA212B3C8AF3D49
 -	★ Practical Signal Processing → https://www.amazon.com/dp/0521854784/ref=cm_sw_em_r_mt_dp_U_vptrCbZG74ACA
+- ★ Wireless Village CTF → http://sdr.ninja/training-events/sdr-wctf/
+- Decoding DMR Voice → https://www.slideshare.net/initd/mototrbo
+
 
 
 #### ==Reversing Simple Protocols== 
@@ -144,7 +147,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Multimon-NG →  https://github.com/EliasOenal/multimon-ng 
 -	POM-NG →  https://www.packet-o-matic.org/ 
 -	LinuxTV →  https://www.linuxtv.org
-- Decoding DMR Voice - https://www.slideshare.net/initd/mototrbo
+- DSD (DMR Decoder) → https://github.com/szechyjs/dsd
 
 #### ==GSM && LTE==
 -	★ srsLTE →  https://github.com/srsLTE/srsLTE 
