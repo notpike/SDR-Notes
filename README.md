@@ -139,6 +139,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	gr-dtv →  https://github.com/gnuradio/gnuradio/tree/master/gr-dtv 
 -	gr-ieee802.15-4 →  https://github.com/bastibl/gr-ieee802-15-4 
 -	gr-pocsag →  https://github.com/bafe/gr-pocsag 
+- gr-rds → https://github.com/bastibl/gr-rds
 
 
 ####	==Stand Alone Applications== 
