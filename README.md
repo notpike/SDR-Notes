@@ -149,6 +149,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	POM-NG →  https://www.packet-o-matic.org/ 
 -	LinuxTV →  https://www.linuxtv.org
 - DSD (DMR Decoder) → https://github.com/szechyjs/dsd
+- CSDR (IQ Encoder) → https://github.com/simonyiszk/csdr
 
 #### ==GSM && LTE==
 -	★ srsLTE →  https://github.com/srsLTE/srsLTE 
