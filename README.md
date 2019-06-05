@@ -144,6 +144,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Multimon-NG →  https://github.com/EliasOenal/multimon-ng 
 -	POM-NG →  https://www.packet-o-matic.org/ 
 -	LinuxTV →  https://www.linuxtv.org
+- Decoding DMR Voice - https://www.slideshare.net/initd/mototrbo
 
 #### ==GSM && LTE==
 -	★ srsLTE →  https://github.com/srsLTE/srsLTE 
@@ -211,3 +212,4 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - NotPike
 - Ted
 - rfs
+- Tim N
