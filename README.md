@@ -4,6 +4,7 @@ Hi!
 I created this repo for everything SDR and wireless related so I wouldn't lose track of available tools or guides. The Quick Start was created for those who never worked with SDR before and includes videos and tools to get people started. The 2nd half, Radio Hacker Reference, are tools and other stuff I’ve used I feel are important to know. Any who feel free and share this as you wish, add too if you like, and happy hacking! :D 
 
 \- NotPike
+![Dishy](/img/DishyTheLovableDish.jpg)
 
 ## R A D I O  ★  H A C K E R  ★  Q U I C K  ★  S T A R T  ★  G U I D E
 
@@ -12,7 +13,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	GQRX → https://github.com/csete/gqrx
 -	Intro to Ham Radio → https://youtu.be/RGluTpM7_K8
 -	★ Visual Intro to DSP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
--	The Hobbyist’s Guide to the RTL-SDR → http://libgen.io/book/index.php?md5=858D770EC0E814371C2E0388484CEA5A
+-	The Hobbyist’s Guide to the RTL-SDR → http://libgen.io/book/index.phpDishyTheLovableDish.jpg?md5=858D770EC0E814371C2E0388484CEA5A
 
 ######	== Pre Configured SDR Linux Distros==
 -	★ Pentoo Linux → https://www.pentoo.ch/
