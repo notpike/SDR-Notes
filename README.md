@@ -18,6 +18,8 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 ######	== Pre Configured SDR Linux Distros==
 -	★ Pentoo Linux → https://www.pentoo.ch/
 -	GNU Radio Live → https://wiki.gnuradio.org/index.php/GNU_Radio_Live_SDR_Environment
+- Skywave Linux → https://skywavelinux.com/
+- ★ SigintOS → https://www.sigintos.com/
 
 
 #### =="Don't hurt me"==
