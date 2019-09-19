@@ -134,7 +134,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 ####	== GNU Radio Companion==
 -	★ PyBombs →  https://github.com/gnuradio/pybombs 
-- ★ SDR Examples → https://github.com/argilo/sdr-examples
+- ★ sdr-examples → https://github.com/argilo/sdr-examples
 -	gr-iridium →  https://github.com/muccc/gr-iridium 
 -	gr-gsm →  https://github.com/ptrkrysik/gr-gsm 
 -	gr-lte →  https://github.com/kit-cel/gr-lte 
