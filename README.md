@@ -9,6 +9,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 ## R A D I O  ★  H A C K E R  ★  Q U I C K  ★  S T A R T  ★  G U I D E
 
 #### =="Can I play, Daddy?"==
+-	★ How does Software Defined Radio (SDR) work under the Hood? → https://youtu.be/xQVm-YTKR9s
 -	★ RTL-SDR Quick Start → https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
 -	GQRX → https://github.com/csete/gqrx
 -	Intro to Ham Radio → https://youtu.be/RGluTpM7_K8
