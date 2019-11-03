@@ -126,6 +126,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 ####	==SDR Software==
 -	RTL-SDR →  https://github.com/osmocom/rtl-sdr 
+- ★ RTL_433 → https://github.com/merbanan/rtl_433
 -	GQRX →  https://github.com/csete/gqrx 
 -	★ Universal Radio Hacker →  https://github.com/jopohl/urh 
 -	Inspectrum →  https://github.com/miek/inspectrum 
