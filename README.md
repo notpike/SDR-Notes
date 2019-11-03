@@ -14,7 +14,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	GQRX → https://github.com/csete/gqrx
 -	Intro to Ham Radio → https://youtu.be/RGluTpM7_K8
 -	★ Visual Intro to DSP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
--	The Hobbyist’s Guide to the RTL-SDR → http://libgen.io/book/index.phpDishyTheLovableDish.jpg?md5=858D770EC0E814371C2E0388484CEA5A
+-	The Hobbyist’s Guide to the RTL-SDR → http://libgen.lc/item/index.php?md5=858D770EC0E814371C2E0388484CEA5A
 - KringleCon - Larry Pesce, Software Defined Radio: The New Awesome → https://www.youtube.com/watch?v=ZJzhLWOCjjg
 
 ######	== Pre Configured SDR Linux Distros==
@@ -30,7 +30,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	GRC Tutorial → https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC
 -	Multimon-NG → https://github.com/EliasOenal/multimon-ng
--	★ The Essential Guide to Digital Signal Processing → http://libgen.io/book/index.php?md5=193E1AC4AA26E8238CA212B3C8AF3D49
+-	★ The Essential Guide to Digital Signal Processing → http://libgen.lc/item/index.php?md5=193E1AC4AA26E8238CA212B3C8AF3D49
 
 
 #### =="Bring 'em on!"==
@@ -71,7 +71,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Visual Intro to SDP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
 - Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	FFT → https://youtu.be/iTMn0Kt18tg
--	The Hobbyist’s Guide to the RTL-SDR → http://libgen.io/book/index.php?md5=858D770EC0E814371C2E0388484CEA5A
+-	The Hobbyist’s Guide to the RTL-SDR → http://libgen.lc/item/index.php?md5=858D770EC0E814371C2E0388484CEA5A
 -	★ The Essential Guide to Digital Signal Processing → http://libgen.io/book/index.php?md5=193E1AC4AA26E8238CA212B3C8AF3D49
 -	★ Practical Signal Processing → https://www.amazon.com/dp/0521854784/ref=cm_sw_em_r_mt_dp_U_vptrCbZG74ACA
 - ★ Wireless Village CTF → http://sdr.ninja/training-events/sdr-wctf/
@@ -225,3 +225,4 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - rfs
 - Tim N
 - YUU
+- its-a-lisa
