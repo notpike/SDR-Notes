@@ -42,6 +42,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 ######	==Reversing==
 -	Inspectrum → https://github.com/miek/inspectrum
 -	★ Universal Radio Hacker → https://github.com/jopohl/urh
+- ★ RTL_433 → https://github.com/merbanan/rtl_433
 -	Reverse Engineering Protocols 1 → https://youtu.be/eVqIe3na_Zk
 -	Reverse Engineering Protocols 2 → https://youtu.be/vf38-8LbDuw
 
