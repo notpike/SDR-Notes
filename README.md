@@ -49,6 +49,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 ######	==I’m Poor But I still Want to TX==
 -	VGA Transmitter → https://osmocom.org/projects/osmo-fl2k/wiki
 -	★ Rpi-TX → https://github.com/F5OEO/rpitx
+- PiFmRds → https://github.com/ChristopheJacquet/PiFmRds
 
 
 #### =="I am Death incarnate!"==
