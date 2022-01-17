@@ -67,6 +67,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Antenna Tutorial → https://youtu.be/J3PBL9oLPX8
 -	Antenna Tutorial 2 → https://youtu.be/ZpKoLvqOWyc
 -	Troy 2.4GHz Yagi Design → http://troybrowndesigns.com
+-	★ John D. Kraus Antennas Lecture → pt1:https://youtu.be/4nKRp7TzgBI pt2:https://youtu.be/k7QybBNW8H4 pt3:https://youtu.be/RlsFC2Mw9IM
 
 
 #### ==DSP/SDR Education==
