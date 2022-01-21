@@ -172,6 +172,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 ####	==WiFi && BLUETOOTH && ZIGBEE==
 -	★ BLE CTF → http://www.hackgnar.com/2018/06/learning-bluetooth-hackery-with-ble-ctf.html
+-	★ btlejack → https://github.com/virtualabs/btlejack
 -	★ Killer Bee (ZigBee) →  https://github.com/riverloopsec/killerbee 
 -	★ Aircrack-NG →  https://www.aircrack-ng.org/ 
 -	★ bleah →  https://github.com/evilsocket/bleah 
