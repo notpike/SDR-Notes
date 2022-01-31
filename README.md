@@ -129,6 +129,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 ####	==SDR Software==
+- GNSS SDR → https://gnss-sdr.org
 -	RTL-SDR →  https://github.com/osmocom/rtl-sdr 
 - ★ RTL_433 → https://github.com/merbanan/rtl_433
 -	GQRX →  https://github.com/csete/gqrx 
