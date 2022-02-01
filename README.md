@@ -56,7 +56,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 #### =="I am Death incarnate!"==
 -	★ Practical Signal Processing → (Book)
 -	OpenBTS (DEPRECIATED) → https://github.com/RangeNetworks/openbts
--	srsLTE → https://github.com/srsLTE/srsLTE
+-	srsRAN → https://github.com/srsran/srsRAN
 -	★ GNSS Simulation → https://github.com/osqzss/gps-sdr-sim
 
 
