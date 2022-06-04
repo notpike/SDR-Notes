@@ -111,6 +111,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 ####		==SDR Hardware==
+- Airspy SDR → https://airspy.com/
 -	RTL-SDR →  https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/ 
 -	HackRF →  https://greatscottgadgets.com/hackrf/ 
 -	HackRF Portapack →  https://store.sharebrained.com/products/portapack-for-hackrf-one-kit 
@@ -121,6 +122,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 #### ==SDR APIs==
+- SoapyAirspy → https://github.com/pothosware/SoapyAirspy/
 - SoapySDR → https://github.com/pothosware/SoapySDR/wiki
 - USRP (Python) → https://files.ettus.com/manual/page_python.html
 - RTL-SDR (Python) → https://pypi.org/project/pyrtlsdr/
@@ -138,6 +140,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	GNSS Simulation →  https://github.com/osqzss/gps-sdr-sim 
 -	PAL/NTSC TX For HackRF →  https://github.com/fsphil/hacktv 
 -	★ Portapack Havoc →  https://github.com/furrtek/portapack-havoc 
+-	SDR++ → https://github.com/AlexandreRouma/SDRPlusPlus
 
 
 ####	== GNU Radio Companion==
@@ -233,3 +236,4 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - Tim N
 - YUU
 - its-a-lisa
+- TuxedoHam
