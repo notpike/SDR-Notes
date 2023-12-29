@@ -23,6 +23,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	GNU Radio Live → https://wiki.gnuradio.org/index.php/GNU_Radio_Live_SDR_Environment
 - Skywave Linux → https://skywavelinux.com/
 - SigintOS → https://www.sigintos.com/
+- Gorizont-rtlsdr → https://sourceforge.net/projects/gorizont-rtlsdr/
 
 
 #### =="Don't hurt me"==
