@@ -18,9 +18,8 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - KringleCon - Larry Pesce, Software Defined Radio: The New Awesome → https://www.youtube.com/watch?v=ZJzhLWOCjjg
 
 ######	== Pre Configured SDR Linux Distros==
--	★ Pentoo Linux → https://www.pentoo.ch/
 -	★ DragonOS → https://sourceforge.net/projects/dragonos-focal/
--	GNU Radio Live → https://wiki.gnuradio.org/index.php/GNU_Radio_Live_SDR_Environment
+-	★ Pentoo Linux → https://www.pentoo.ch/
 - Skywave Linux → https://skywavelinux.com/
 - SigintOS → https://www.sigintos.com/
 
