@@ -182,7 +182,7 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 - ★ Rayhunter → https://github.com/EFForg/rayhunter
 
 
-####	==WiFi && BLUETOOTH && ZIGBEE==
+####	==WiFi && BLUETOOTH && ZIGBEE && LoRa==
 -	★ Meshtastic → https://meshtastic.org/
 -	★ BLE CTF → http://www.hackgnar.com/2018/06/learning-bluetooth-hackery-with-ble-ctf.html
 -	★ btlejack → https://github.com/virtualabs/btlejack
