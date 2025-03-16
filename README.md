@@ -30,6 +30,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	GRC Tutorial → https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC
 -	Multimon-NG → https://github.com/EliasOenal/multimon-ng
+-	★ DSD with DMR AES Decode → https://github.com/LouisErigHerve/dsd
 
 
 #### =="Bring 'em on!"==
@@ -73,10 +74,9 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Visual Intro to SDP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
 - Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	FFT → https://youtu.be/iTMn0Kt18tg
--	The Hobbyist’s Guide to the RTL-SDR → http://libgen.lc/item/index.php?md5=858D770EC0E814371C2E0388484CEA5A
--	★ The Essential Guide to Digital Signal Processing → http://libgen.io/book/index.php?md5=193E1AC4AA26E8238CA212B3C8AF3D49
+-	The Hobbyist’s Guide to the RTL-SDR (Book)
+-	★ The Essential Guide to Digital Signal Processing (Book)
 -	★ Practical Signal Processing → https://www.amazon.com/dp/0521854784/ref=cm_sw_em_r_mt_dp_U_vptrCbZG74ACA
-- ★ Wireless Village CTF → http://sdr.ninja/training-events/sdr-wctf/
 - Decoding DMR Voice → https://www.slideshare.net/initd/mototrbo
 
 
@@ -109,9 +109,11 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 ####		==SDR Hardware==
--	RTL-SDR →  https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/ 
--	HackRF →  https://greatscottgadgets.com/hackrf/ 
--	HackRF Portapack →  https://store.sharebrained.com/products/portapack-for-hackrf-one-kit 
+-	★ RTL-SDR →  https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/ 
+-	★ HackRF →  https://greatscottgadgets.com/hackrf/ 
+-	HackRF Portapack →  https://store.sharebrained.com/products/portapack-for-hackrf-one-kit
+-	★ Portapack H2 → https://hackerwarehouse.com/product/portapack-h2-for-hackrf-one/ (Check Ali or Ebay for Deals)
+- ★ Portapack Mayhem Firmware → https://github.com/portapack-mayhem/mayhem-firmware
 -	BladeRF →  https://www.nuand.com/bladerf-2-0-micro/ 
 -	USRP B210 →  https://www.ettus.com/product/details/UB210-KIT 
 -	XTRX →  https://xtrx.io/ 
@@ -155,6 +157,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 ####	==Stand Alone Applications== 
+-	★ DSD with DMR AES Decode → https://github.com/LouisErigHerve/dsd
 -	rfcat →  https://github.com/atlas0fd00m/rfcat 
 -	★ rfcat (Code Samples) →  https://github.com/AndrewMohawk/RfCatHelpers 
 -	Multimon-NG →  https://github.com/EliasOenal/multimon-ng 
@@ -203,7 +206,11 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 ####		==Radios==
 -	Yard Stick One →  https://greatscottgadgets.com/yardstickone/ 
 -	Crazyradio PA →  https://www.bitcraze.io/crazyradio-pa/ 
--	MD380 →  http://www.tyt888.com/?mod=product_show&id=78 
+-	MD380 →  http://www.tyt888.com/?mod=product_show&id=78
+-	MD380 Tools → https://github.com/travisgoodspeed/md380tools
+-	Flipper Zero → https://flipperzero.one/
+-	Flipper Unleased Firmware → https://flipperunleashed.com/
+-	★ AT 878 UVII+ → https://anytone.org/wp/product/anytone-at-d878uvii-plus/
 
 
 ####		==Other Hardware==
