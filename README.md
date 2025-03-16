@@ -205,7 +205,7 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 
 ####		==ZigBee Hardware==
 -	apimote →  https://github.com/riverloopsec/apimote 
--	Atmel RZ RAVEN →  https://www.microchip.com/webdoc/rzraven/pr01.html 
+-	Atmel RZ RAVEN →  https://www.microchip.com/en-us/development-tool/atavrrzraven
 -	TI CC2530 →  https://www.aliexpress.com/item/ZigBee-CC2531-USB-Dongle/1830760873.html 
 
 
