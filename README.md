@@ -12,6 +12,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	★ How does Software Defined Radio (SDR) work under the Hood? → https://youtu.be/xQVm-YTKR9s
 -	★ RTL-SDR Quick Start → https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
 -	GQRX → https://github.com/csete/gqrx
+-	★ SDR++ → https://www.sdrpp.org/
 -	Intro to Ham Radio → https://youtu.be/RGluTpM7_K8
 -	★ Visual Intro to DSP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
 -	The Hobbyist’s Guide to the RTL-SDR → http://libgen.lc/item/index.php?md5=858D770EC0E814371C2E0388484CEA5A
@@ -26,7 +27,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 #### =="Don't hurt me"==
--	★ Install GRC → https://github.com/gnuradio/pybombs
+-	★ Install GRC → https://wiki.gnuradio.org/index.php/InstallingGR
 -	★ SDR with HackRF → https://greatscottgadgets.com/sdr/
 - Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	GRC Tutorial → https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC
@@ -55,8 +56,8 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 #### =="I am Death incarnate!"==
 -	★ Practical Signal Processing → (Book)
--	OpenBTS (DEPRECIATED) → https://github.com/RangeNetworks/openbts
--	srsRAN → https://github.com/srsran/srsRAN
+-	Osmo NITB Scripts (DEPRECIATED) → https://github.com/notpike/osmo-nitb-scripts
+-	srsRAN → https://www.srslte.com/
 -	★ GNSS Simulation → https://github.com/osqzss/gps-sdr-sim
 
 
@@ -132,7 +133,8 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - GNSS SDR → https://gnss-sdr.org
 -	RTL-SDR →  https://github.com/osmocom/rtl-sdr 
 - ★ RTL_433 → https://github.com/merbanan/rtl_433
--	GQRX →  https://github.com/csete/gqrx 
+-	GQRX →  https://github.com/csete/gqrx
+-	★ SDR++ → https://www.sdrpp.org/
 -	★ Universal Radio Hacker →  https://github.com/jopohl/urh 
 -	Inspectrum →  https://github.com/miek/inspectrum 
 -	GNSS Simulation →  https://github.com/osqzss/gps-sdr-sim 
@@ -141,7 +143,8 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 ####	== GNU Radio Companion==
--	★ PyBombs →  https://github.com/gnuradio/pybombs 
+- ★ Install GRC → https://wiki.gnuradio.org/index.php/InstallingGR
+-	PyBombs (DEPRECIATED) →  https://github.com/gnuradio/pybombs
 - ★ sdr-examples → https://github.com/argilo/sdr-examples
 -	gr-iridium →  https://github.com/muccc/gr-iridium 
 -	gr-gsm →  https://github.com/ptrkrysik/gr-gsm 
@@ -164,11 +167,13 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - CSDR (IQ Encoder) → https://github.com/simonyiszk/csdr
 
 #### ==GSM && LTE==
--	★ srsLTE →  https://github.com/srsLTE/srsLTE 
+-	★ srsRAN →  https://www.srslte.com/
 -	OpenBTS (DEPRECIATED) →  https://github.com/RangeNetworks/openbts
 - YateBTS → https://github.com/Nuand/bladeRF/wiki/Setting-up-Yate-and-YateBTS-with-the-bladeRF
-- ★ OsmoNITB → https://osmocom.org/projects/osmonitb/wiki/OsmoNITB
+- OsmoNITB (DEPRECIATED) → https://osmocom.org/projects/osmonitb/wiki/OsmoNITB
+-	★ Osmo NITB Scripts (DEPRECIATED) → https://github.com/notpike/osmo-nitb-scripts
 - ★ OsmocomBB SDR PHY (GSM SDR Softphone) → https://osmocom.org/projects/osmocom-bb-sdr-phy
+- ★ Rayhunter → https://github.com/EFForg/rayhunter
 
 
 ####	==WiFi && BLUETOOTH && ZIGBEE==
