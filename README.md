@@ -30,7 +30,6 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 - Complex, But Not Complicated → https://dspguru.com/files/QuadSignals.pdf
 -	GRC Tutorial → https://wiki.gnuradio.org/index.php/Guided_Tutorial_GRC
 -	Multimon-NG → https://github.com/EliasOenal/multimon-ng
--	★ The Essential Guide to Digital Signal Processing → http://libgen.lc/item/index.php?md5=193E1AC4AA26E8238CA212B3C8AF3D49
 
 
 #### =="Bring 'em on!"==
