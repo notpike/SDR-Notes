@@ -102,7 +102,8 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	Signal ID Guide → https://www.sigidwiki.com/wiki/Signal_Identification_Guide
 
 
-#### ==Groups==
+#### ==Groups && People==
+- ★ Daniel Estévez → https://destevez.net/articles/
 -	RTL-SDR → https://www.rtl-sdr.com/
 -	GNU Radio → https://www.gnuradio.org/
 -	OSMOCOM → https://osmocom.org/
@@ -118,7 +119,8 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	BladeRF →  https://www.nuand.com/bladerf-2-0-micro/ 
 -	USRP B210 →  https://www.ettus.com/product/details/UB210-KIT 
 -	XTRX →  https://xtrx.io/ 
--	LimeSDR →  https://myriadrf.org/projects/limesdr/ 
+-	LimeSDR →  https://myriadrf.org/projects/limesdr/
+-	ADALM-PLUTO → https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/adalm-pluto.html
 
 
 #### ==SDR APIs==
@@ -158,14 +160,17 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 
 
 ####	==Stand Alone Applications== 
+-	DSD (P25/DMR Decoder) → https://github.com/szechyjs/dsd
 -	★ DSD (With DMR AES Decode) → https://github.com/LouisErigHerve/dsd
--	- DSD (P25/DMR Decoder) → https://github.com/szechyjs/dsd
 -	rfcat →  https://github.com/atlas0fd00m/rfcat 
 -	★ rfcat (Code Samples) →  https://github.com/AndrewMohawk/RfCatHelpers 
 -	Multimon-NG →  https://github.com/EliasOenal/multimon-ng 
 -	POM-NG →  https://www.packet-o-matic.org/ 
 -	LinuxTV →  https://www.linuxtv.org
 - CSDR (IQ Encoder) → https://github.com/simonyiszk/csdr
+- ★ WSJT-X (FT8 and other low power modes) → https://wsjt.sourceforge.io/wsjtx.html
+- ★ JS8Call (Text messaging Via FT8) → http://js8call.com/
+- ★ Winlink (Amature Radio Email) → https://winlink.org/
 
 #### ==GSM && LTE==
 -	★ srsRAN →  https://www.srslte.com/
@@ -211,6 +216,8 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 
 
 ####		==Radios==
+- ★ MMDVM (Multi Mode Digital Voice Modem) → https://mmdvm.com/
+- ★ PiStar (MMDVM OS for RPi) → https://www.pistar.uk/
 -	Yard Stick One →  https://greatscottgadgets.com/yardstickone/ 
 -	Crazyradio PA →  https://www.bitcraze.io/crazyradio-pa/ 
 -	MD380 →  http://www.tyt888.com/?mod=product_show&id=78
@@ -224,15 +231,15 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 ####		==Other Hardware==
 -	Symmetricom GPSDO →  http://andybrown.me.uk/2016/11/12/gpsdo-ebay/ 
 -	HackRF TXCO →  https://www.nooelec.com/store/tiny-tcxo.html 
--	BT-100 PA →  https://www.nuand.com/product/bt-100/ 
--	BT-200 LNA →  https://www.nuand.com/product/bt-200/ 
+-	★ BT-100 PA →  https://www.nuand.com/product/bt-100/ 
+-	★ BT-200 LNA →  https://www.nuand.com/product/bt-200/ 
 -	1800MHz Duplexer →  http://shop.sysmocom.de/products/1800-mhz-dcs-duplexer-30w 
 -	1900MHz Duplexer →  http://shop.sysmocom.de/products/dx1900-kt30 
 
 
 ####		==Instrumentation==
 - Tiny SA → https://www.tinysa.org/wiki/
-- NanoVNA → https://nanovna.com/
+- ★ NanoVNA → https://nanovna.com/
 -	N1201SA UV RF VIA →  https://www.amazon.com/N1201SA-Vector-Impedance-Antenna-Analyzer/dp/B06VVVCKN8 
 -	VC3165 Radio Frequency Counter →  https://www.gainexpress.com/products/vc-3165
 
