@@ -178,6 +178,7 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 ####	==WiFi && BLUETOOTH && ZIGBEE==
+-	★ Meshtastic → https://meshtastic.org/
 -	★ BLE CTF → http://www.hackgnar.com/2018/06/learning-bluetooth-hackery-with-ble-ctf.html
 -	★ btlejack → https://github.com/virtualabs/btlejack
 -	★ Killer Bee (ZigBee) →  https://github.com/riverloopsec/killerbee 
@@ -186,6 +187,11 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Blue Hydra →  https://github.com/pwnieexpress/blue_hydra 
 -	Ubertooth →  https://github.com/greatscottgadgets/ubertooth
 - Using Scapy to send WLAN frames → https://wlan1nde.wordpress.com/2016/06/28/using-scapy-to-send-wlan-frames
+
+
+####    ==LoRa Hardware==
+- Lilygo → https://lilygo.cc/
+
 
 ####		==Blue Tooth Hardware==
 -	Ubertooth One →  https://greatscottgadgets.com/ubertoothone/ 
@@ -209,9 +215,10 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	Crazyradio PA →  https://www.bitcraze.io/crazyradio-pa/ 
 -	MD380 →  http://www.tyt888.com/?mod=product_show&id=78
 -	MD380 Tools → https://github.com/travisgoodspeed/md380tools
--	Flipper Zero → https://flipperzero.one/
+-	★ Flipper Zero → https://flipperzero.one/
 -	Flipper Unleased Firmware → https://flipperunleashed.com/
 -	★ AT 878 UVII+ → https://anytone.org/wp/product/anytone-at-d878uvii-plus/
+-	 Smart BP100 DMR Analog Portable Repeater → https://www.alibaba.com/product-detail/Smart-BP100-PoC-DMR-Analog-Portable_1601218725583.html
 
 
 ####		==Other Hardware==
