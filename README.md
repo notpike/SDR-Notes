@@ -15,7 +15,6 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 -	★ SDR++ → https://www.sdrpp.org/
 -	Intro to Ham Radio → https://youtu.be/RGluTpM7_K8
 -	★ Visual Intro to DSP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
--	The Hobbyist’s Guide to the RTL-SDR → http://libgen.lc/item/index.php?md5=858D770EC0E814371C2E0388484CEA5A
 - KringleCon - Larry Pesce, Software Defined Radio: The New Awesome → https://www.youtube.com/watch?v=ZJzhLWOCjjg
 
 ######	== Pre Configured SDR Linux Distros==
