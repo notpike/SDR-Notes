@@ -158,13 +158,13 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 ####	==Stand Alone Applications== 
--	★ DSD with DMR AES Decode → https://github.com/LouisErigHerve/dsd
+-	★ DSD (With DMR AES Decode) → https://github.com/LouisErigHerve/dsd
+-	- DSD (P25/DMR Decoder) → https://github.com/szechyjs/dsd
 -	rfcat →  https://github.com/atlas0fd00m/rfcat 
 -	★ rfcat (Code Samples) →  https://github.com/AndrewMohawk/RfCatHelpers 
 -	Multimon-NG →  https://github.com/EliasOenal/multimon-ng 
 -	POM-NG →  https://www.packet-o-matic.org/ 
 -	LinuxTV →  https://www.linuxtv.org
-- DSD (DMR Decoder) → https://github.com/szechyjs/dsd
 - CSDR (IQ Encoder) → https://github.com/simonyiszk/csdr
 
 #### ==GSM && LTE==
@@ -231,8 +231,10 @@ I created this repo for everything SDR and wireless related so I wouldn't lose t
 
 
 ####		==Instrumentation==
--	N1201SA UV RF VIA →  https://www.eham.net/ehamforum/smf/index.php?topic=112912.0 
--	VC3165 Radio Frequency Counter →  https://www.eham.net/reviews/detail/7839 
+- Tiny SA → https://www.tinysa.org/wiki/
+- NanoVNA → https://nanovna.com/
+-	N1201SA UV RF VIA →  https://www.amazon.com/N1201SA-Vector-Impedance-Antenna-Analyzer/dp/B06VVVCKN8 
+-	VC3165 Radio Frequency Counter →  https://www.gainexpress.com/products/vc-3165
 
 
 ####		==DIY==
