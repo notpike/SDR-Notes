@@ -142,7 +142,8 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	Inspectrum →  https://github.com/miek/inspectrum 
 -	GNSS Simulation →  https://github.com/osqzss/gps-sdr-sim 
 -	PAL/NTSC TX For HackRF →  https://github.com/fsphil/hacktv 
--	★ Portapack Havoc →  https://github.com/furrtek/portapack-havoc 
+-	★ Portapack Havoc →  https://github.com/furrtek/portapack-havoc
+- SDRangel	→ https://github.com/f4exb/sdrangel
 
 
 ####	== GNU Radio Companion==
@@ -182,6 +183,7 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	★ Osmo NITB Scripts (DEPRECIATED) → https://github.com/notpike/osmo-nitb-scripts
 - ★ OsmocomBB SDR PHY (GSM SDR Softphone) → https://osmocom.org/projects/osmocom-bb-sdr-phy
 - ★ Rayhunter → https://github.com/EFForg/rayhunter
+- LTEsniffer → https://github.com/SysSec-KAIST/LTESniffer
 
 
 ####	==WiFi && BLUETOOTH && ZIGBEE && LoRa==
