@@ -16,6 +16,7 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	Intro to Ham Radio → https://youtu.be/RGluTpM7_K8
 -	★ Visual Intro to DSP for SDR → https://youtu.be/DUGr_Z04SKs?t=750
 - KringleCon - Larry Pesce, Software Defined Radio: The New Awesome → https://www.youtube.com/watch?v=ZJzhLWOCjjg
+- Intro to SDR for Tactical Operations - Grey Fox → https://www.youtube.com/watch?v=ZJzhLWOCjjg
 
 ######	== Pre Configured SDR Linux Distros==
 -	★ DragonOS → https://sourceforge.net/projects/dragonos-focal/
