@@ -81,7 +81,7 @@ I created this repo for everything SDR and wireless technologies so I wouldn't l
 -	★ The Essential Guide to Digital Signal Processing (Book)
 -	★ Practical Signal Processing → https://www.amazon.com/dp/0521854784/ref=cm_sw_em_r_mt_dp_U_vptrCbZG74ACA
 - Decoding DMR Voice → https://www.slideshare.net/initd/mototrbo
-
+- - Intro to SDR for Tactical Operations - Grey Fox → https://github.com/GreyFox01/SDR-Notes/blob/master/Doc/Introduction%20to%20SDR%20for%20Tactical%20Operations%20-%20v1.pdf
 
 
 #### ==Reversing Simple Protocols== 
